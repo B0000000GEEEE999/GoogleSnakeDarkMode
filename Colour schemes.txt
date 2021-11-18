@@ -4,7 +4,7 @@ window.snake.scheme({
   background:   '#8C8340',
   borders:      '#B2A350',
   shadows:      '#A9993C',
-  lightSquares: '#E8D56A',
+  lightSquares: '#E8D56A',custom_color_scheme.js
   darkSquares:  '#C9B95C',
 });
 
